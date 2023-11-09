@@ -1,4 +1,4 @@
-# 🐳 Trabalho de Docker - Engenharia de Software II
+# 🐳 Atividade de Docker - Engenharia de Software II
 
 1. Estrutura do projeto
  + Construímos um HTML básico com CSS para um servidor Nginx hospedar
