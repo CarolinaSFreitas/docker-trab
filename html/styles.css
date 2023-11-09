@@ -1,0 +1,55 @@
+body {
+    padding-bottom: 100px; 
+    background-color:#F1F1F1;
+}
+.header {
+    background-color: #0997E5;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
+.logo {
+    max-width: 150px;
+    margin-bottom: 25px;
+}
+div{
+    color: #F68B1F;
+    justify-content: center;
+    text-align: center;
+}
+div h4{
+    cursor: pointer;
+    color: #F68B1F;
+    margin-top: 3px;
+}
+h4:hover{
+    color: #d87d22;
+    text-shadow: #fff 2px 2px 2px 2px;
+}
+
+.swimming-logo {
+    width: 180px;
+    position: fixed;
+    bottom: 0;
+    animation: swim 13s infinite linear;
+    margin-bottom: 25px;
+}
+@keyframes swim {
+    0% {
+        left: 0;
+    }
+    50% {
+        transform: translateX(calc(100vw - 100px)); 
+    }
+    100% {
+        left: 0;
+    }
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+}
