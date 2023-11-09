@@ -5,7 +5,7 @@
 
 2. Dockerfile para o servidor Nginx
   + Criamos um Dockerfile para criar o arquivo de configuração que descreve os passos necessários para construir uma imagem Docker
-  + Nesse Dockerfile, pedimos ao Docker para criar uma imagem com base na imagem base do Nginx e, em seguida, copiar os arquivos HTML e CSS para o diretório padrão do Nginx (/usr/share/nginx/html), onde o servidor web servirá esses arquivos estáticos
+  + Nesse Dockerfile, pedimos ao Docker para criar uma nova imagem baseada na imagem oficial do Nginx e, em seguida, copiar os arquivos HTML e CSS para o diretório padrão do Nginx (/usr/share/nginx/html), onde o servidor web servirá esses arquivos estáticos
 
 3. Construindo a imagem Docker
   + Aqui buildamos a imagem Docker usando o comando ``docker build -t trabalho-docker .``
