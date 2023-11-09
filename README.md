@@ -9,22 +9,16 @@
 
 3. Construindo a imagem Docker
   + Aqui buildamos a imagem Docker usando o comando `` docker build -t trabalho-docker . ``
-
-<div align="center">
+  + 
 ![image](https://github.com/CarolinaSFreitas/docker-trab/assets/99994934/1aa7efb6-cc25-4cba-b5d2-09d9f3b90658)
-</div>
 
 4. Executando o container com a imagem criada
  + Após o build fizemos a execução do container para rodar o Nginx com nosso HTML através do comando `` docker run -d -p 8080:80 --name container-trab trabalho-docker ``
 
-<div align="center">
 ![image](https://github.com/CarolinaSFreitas/docker-trab/assets/99994934/6c59d858-f564-464f-80bb-0b74000a553f)
-</div>
 
 Container do Nginx sendo executado com sucesso na porta 8080 definida na criação do container:
 
-<div align="center">
 ![server](https://github.com/CarolinaSFreitas/docker-trab/assets/99994934/a3624414-ec8f-471e-80c8-70d02c1c9f1b)
-</div>
 
 5. 
