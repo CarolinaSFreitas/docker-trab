@@ -1,7 +1,7 @@
 # Trabalho de Docker - Engenharia de Software II
 
 1. Estrutura do projeto
- + Construímos um HTML básico com CSS para um servidor Nginx Docker hospedar
+ + Construímos um HTML básico com CSS para um servidor Nginx hospedar
 
 2. Dockerfile para o servidor Nginx
   + Criamos um Dockerfile para criar o arquivo de configuração que descreve os passos necessários para construir uma imagem Docker
