@@ -33,7 +33,7 @@ Container do Nginx sendo executado com sucesso na porta 8080 definida na criaç�
    
   ![image](https://github.com/CarolinaSFreitas/docker-trab/assets/99994934/5b055952-9028-4415-b53c-5925e7d5d1d1)
 
-+ Se for acessar como usuário aluno (também definido no docker-compose.yml, usar: ``docker-compose exec db mysql -u aluno -p``
++ Se for acessar como usuário aluno (também definido no docker-compose.yml), usar: ``docker-compose exec db mysql -u aluno -p``
 
 ![image](https://github.com/CarolinaSFreitas/docker-trab/assets/99994934/b7d9f810-7dc2-4945-9448-2287d19b8698)
 
