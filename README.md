@@ -28,7 +28,7 @@ Container do Nginx sendo executado com sucesso na porta 8080 definida na criaç�
 
 ![image](https://github.com/CarolinaSFreitas/docker-trab/assets/99994934/3d24fcf6-edaf-4f6d-9556-36c8dde0b915)
 
-+ Acessando novamenta a porta 8080 do localhost (http://localhost:8080/) será possível acessar o Nginx com o HTML 
++ Acessando novamente a porta 8080 do localhost (http://localhost:8080/) será possível acessar o Nginx com o HTML 
 + Para acessar o container do MySQL como root basta usar os comandos: ``docker-compose exec db mysql -u root -p`` e digitar a senha definida pro root no arquivo do Compose
    
   ![image](https://github.com/CarolinaSFreitas/docker-trab/assets/99994934/5b055952-9028-4415-b53c-5925e7d5d1d1)
