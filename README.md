@@ -18,7 +18,6 @@
 ![image](https://github.com/CarolinaSFreitas/docker-trab/assets/99994934/6c59d858-f564-464f-80bb-0b74000a553f)
 
 Container do Nginx sendo executado com sucesso na porta 8080 definida na criação do container:
-
-![server](https://github.com/CarolinaSFreitas/docker-trab/assets/99994934/a3624414-ec8f-471e-80c8-70d02c1c9f1b)
+![server](https://github.com/CarolinaSFreitas/docker-trab/assets/99994934/0ce39527-3a5c-4117-ae6e-5bd20ce8323f)
 
 5. 
