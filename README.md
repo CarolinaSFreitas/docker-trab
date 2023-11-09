@@ -22,6 +22,7 @@
 </div>
 
 Container do Nginx sendo executado com sucesso na porta 8080 definida na criação do container:
+
 <div align="center">
 ![server](https://github.com/CarolinaSFreitas/docker-trab/assets/99994934/a3624414-ec8f-471e-80c8-70d02c1c9f1b)
 </div>
