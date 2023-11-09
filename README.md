@@ -1,5 +1,7 @@
 # 🐳 Atividade de Docker - Engenharia de Software II
 
+### Grupo: Carolina Freitas, Gabriel Mendes, Júlia Hallal, Maria Antônia Soares e Rodrigo Silva
+
 1. **Estrutura do projeto**
  + Construímos um HTML básico com CSS para um servidor Nginx hospedar
 
